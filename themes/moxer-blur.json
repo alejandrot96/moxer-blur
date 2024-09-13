@@ -4,7 +4,7 @@
   "author": "Alejandro T <dev@alejandro.at>",
   "themes": [
     {
-      "name": "Catppuccin Espresso (Blur)",
+      "name": "Moxer Blur",
       "appearance": "dark",
       "style": {
         "background.appearance": "blurred",
