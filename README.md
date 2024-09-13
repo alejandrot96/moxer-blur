@@ -3,6 +3,7 @@
 A port of the [Moxer theme](https://github.com/moxer-theme/moxer-code.git) for Zed, based on the [Catppuccin for Zed with Blur](https://github.com/jenslys/zed-catppuccin-blur.git).
 
 ## Previews
+![image](https://github.com/user-attachments/assets/87062d63-2eb2-43c5-ba0a-0245671888b0)
 
 
 ## Features
