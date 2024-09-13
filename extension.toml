@@ -1,0 +1,7 @@
+id = "moxer-blur"
+name = "Moxer Blur"
+schema_version = 1
+version = "0.0.1"
+authors = ["Alejandro T <dev@alejandro.at>"]
+description = "Moxer theme from VS Code with blur for Zed"
+repository = "https://github.com/alejandrot96/moxer-blur"
